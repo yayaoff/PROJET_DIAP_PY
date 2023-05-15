@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "elasticity.h": "c",
+        "matrix.h": "c",
+        "math.h": "c",
+        "lu.h": "c",
+        "design.h": "c",
+        "eigen.h": "c"
+    }
+}
